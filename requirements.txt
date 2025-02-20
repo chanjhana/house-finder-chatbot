@@ -1,0 +1,17 @@
+sentence-transformers 
+langchainhub
+pinecone-client[grpc] 
+langchain 
+langchain_community 
+unstructured 
+langchain-text-splitters 
+tiktoken
+pypdf
+groq
+sentence-transformers
+langchain-pinecone
+langchain>=0.2.2
+langchain_community>=0.0.1
+transformers>=4.0.0
+torch>=1.9.0
+streamlit>=1.28.0
