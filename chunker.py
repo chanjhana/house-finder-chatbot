@@ -27,7 +27,7 @@ class PDFChunker:
 
 
 # Use the PDFChunker
-chunker = PDFChunker("Kudil.pdf")
+chunker = PDFChunker("kudil.pdf")
 
 # Get the chunks
 docs = chunker.chunk()
